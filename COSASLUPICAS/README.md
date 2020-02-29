@@ -11,6 +11,4 @@ En esta aplicacion los usuarios podran compartir sus esxperiencias e incertidumb
 
 
 
-![logo](src/img/prototipo.png)
-  
 
