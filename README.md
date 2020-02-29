@@ -1,5 +1,4 @@
 # Cosaslupicas-Red-Social
-# Cosaslupicas Red Social
 
 
 ![logo](src/img/logo.png)
